@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
  <i class="devicon-cloudflareworkers-plain"></i>
+ 
+            <i class="devicon-docker-plain-wordmark"></i>
+         
 
  Sou estudante de graduação do curso superior em Análise e desenvolvimento de sistenas.
  Sempre tive muita paixão e curiosidade pela área de tecnologia e muita vontade de entender como funciona esse mundo.
