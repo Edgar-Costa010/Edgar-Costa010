@@ -28,6 +28,12 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" width="40" height="40"/>       
  </div>
  <br>
+
+ ## Contate-me
+<div>
+<a href = "mailto:contato@edgar010c@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/edgar-costa-ocs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
  
  Sou estudante de graduação do curso superior em Análise e desenvolvimento de sistenas.
  Sempre tive muita paixão e curiosidade pela área de tecnologia e muita vontade de entender como funciona esse mundo.
