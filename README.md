@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <i class="devicon-docker-plain-wordmark"></i>
 -->
 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
  Sou estudante de graduação do curso superior em Análise e desenvolvimento de sistenas.
  Sempre tive muita paixão e curiosidade pela área de tecnologia e muita vontade de entender como funciona esse mundo.
  Vivi arté os 22 anos de idade no estado do Tocantins, onde nasci, e em busca de melhores oportunidades de estudo e trabalho, decidi, em 2019, mudar para Curitiba onde moro desde então. Na capital paranaense entrei no mercado de trabalho e iniciei alguns cursos profissionalizantes para me preparar para um maior alcance. 
