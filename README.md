@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <!-- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
- <i class="devicon-cloudflareworkers-plain"></i>
- 
- 
-<i class="devicon-docker-plain-wordmark"></i>
--->
+
+<!-- Tamanho de imagem = width="40" height="40" -->
 
  Sou estudante de graduação do curso superior em Análise e desenvolvimento de sistenas.
  Sempre tive muita paixão e curiosidade pela área de tecnologia e muita vontade de entender como funciona esse mundo.
@@ -28,7 +24,7 @@ Here are some ideas to get you started:
  **Em trabalhos acadêmicos já tive vivência prática com a programação, desenvolvendo alguns sites para algumas disciplinas do curso, e estou a procura de estágio na minha área de estudo.**
  
 ## Habilidades
- <div img float = left >
+ <div >
   <br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
