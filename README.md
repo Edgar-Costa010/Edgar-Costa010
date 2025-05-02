@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />       
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" width="40" height="40"/>       
           
  Sou estudante de graduação do curso superior em Análise e desenvolvimento de sistenas.
  Sempre tive muita paixão e curiosidade pela área de tecnologia e muita vontade de entender como funciona esse mundo.
