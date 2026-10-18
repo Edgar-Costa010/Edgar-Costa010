@@ -22,7 +22,6 @@ Tenho interesse em infraestrutura de TI, suporte técnico, sistemas operacionais
 🔐 Estudos em cibersegurança e ferramentas utilizadas em laboratórios acadêmicos.
 
 📚 Desenvolvimento de atividades acadêmicas e projetos práticos voltados à TI.
-
 ---
 ## 🎓 Formação Acadêmica
 Graduação em Análise e Desenvolvimento de Sistemas — Concluída.
@@ -30,7 +29,7 @@ Pós-graduação em Cibersegurança — Em andamento.
 
 ## 🛠️ Conhecimentos e habilidades técnicas
 
-###💻 Sistemas Operacionais
+### 💻 Sistemas Operacionais
 
 Administração e diagnóstico de sistemas Windows e Linux.
 
@@ -40,7 +39,7 @@ Configuração de dual boot, UEFI e partições EFI.
 
 Utilização de ferramentas de recuperação, como bcdedit, bcdboot e SFC.
 
-###💾 Suporte Técnico e Armazenamento
+### 💾 Suporte Técnico e Armazenamento
 
 Diagnóstico e resolução de problemas em dispositivos USB.
 
