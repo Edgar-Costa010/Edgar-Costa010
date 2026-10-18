@@ -77,6 +77,7 @@ Familiarização com ferramentas de coleta e análise de informações.
 Diagnóstico e recuperação de problemas de inicialização, incluindo análise de configurações de boot, estrutura EFI, dados BCD e acesso ao Modo de Segurança.
 
 Ferramentas: Windows, UEFI, bcdedit, bcdboot e SFC.
+
 -
 
 #### 02. Gerenciamento de Sistemas Operacionais
@@ -84,6 +85,7 @@ Ferramentas: Windows, UEFI, bcdedit, bcdboot e SFC.
 Análise de armazenamento e partições em ambiente dual boot com Windows e Linux, investigando a utilização do espaço em disco e as possibilidades de gerenciamento das partições.
 
 Tecnologias: Windows, Linux, EFI e sistemas de arquivos.
+
 -
 
 #### 03. Diagnóstico de Dispositivos USB
@@ -91,6 +93,7 @@ Tecnologias: Windows, Linux, EFI e sistemas de arquivos.
 Formatação e configuração de pen drive, com análise das características e da compatibilidade dos sistemas de arquivos FAT32, exFAT e NTFS.
 
 Tecnologias: armazenamento removível e sistemas de arquivos.
+
 -
 
 #### 04. Diagnóstico de Redes em Máquinas Virtuais
@@ -98,6 +101,7 @@ Tecnologias: armazenamento removível e sistemas de arquivos.
 Investigação de problemas de comunicação entre máquinas virtuais Windows e Linux, utilizando adaptadores NAT e ferramentas de diagnóstico de conectividade.
 
 Ferramentas: Linux, Windows, NAT, ping e PowerShell.
+
 ---
 
 <!--  ## 📂 Meus projetos
