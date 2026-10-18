@@ -22,6 +22,7 @@ Tenho interesse em infraestrutura de TI, suporte técnico, sistemas operacionais
 🔐 Estudos em cibersegurança e ferramentas utilizadas em laboratórios acadêmicos.
 
 📚 Desenvolvimento de atividades acadêmicas e projetos práticos voltados à TI.
+
 ---
 ## 🎓 Formação Acadêmica
 Graduação em Análise e Desenvolvimento de Sistemas — Concluída.
@@ -125,7 +126,3 @@ Atualmente, sigo aprofundando conhecimentos em:
 
 - GitHub: https://github.com/edgar-costa010
 - LinkedIn: *www.linkedin.com/in/edgar-costa-ocs*
-
----
-
-⭐ *Este perfil tem como objetivo apresentar projetos e experiências voltadas ao desenvolvimento e análise de sistemas.*
